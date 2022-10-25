@@ -29,3 +29,6 @@ https://user-images.githubusercontent.com/95581741/197784907-f38ddd74-bf87-4fb0-
 ### Note
 You Can Add Your Social media link or ID for developers
 if a developer make your idea real, contanct you
+
+---
+It's not important if you give a star to this repo or not, but I will be happy if you do it ⭐
