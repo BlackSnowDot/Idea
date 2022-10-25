@@ -1,4 +1,4 @@
-# Idea
+<h1 align="center">💫Idea💫</h1>
 
 You are checking github to find a script or something else but you didn't find it.
 
@@ -7,8 +7,11 @@ Submit it here Maybe a developer will check here and make it 🌵
 How Can I Submit a idea? 😑
 
 <details><summary>Check This Video</summary>
-    #
-    </details>
+    <br>
+    
+https://user-images.githubusercontent.com/95581741/197784907-f38ddd74-bf87-4fb0-9522-41a84e4dc79e.mp4
+
+</details>
 
 ### Or
 
@@ -21,3 +24,8 @@ How Can I Submit a idea? 😑
     <p>Finally Click commit new file Button 🔘</p>
     <br>
 </details>
+
+
+### Note
+You Can Add Your Social media link or ID for developers
+if a developer make your idea real, contanct you
